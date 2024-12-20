@@ -6,9 +6,9 @@
 4. Mini statement
 '''
 Bank = {
-    2245: ["Rambabu","7753",10000,[17,6,2000]],
-    2577: ["Pavan",None,20000,[27,8,2001]] ,
-    2688: ["Munvar","9398",0,[30,11,2003]]
+    22450: ["Rambabu","7753",10000,[17,6,2000]],
+    25077: ["Pavan",None,20000,[27,8,2001]] ,
+    26828: ["Munvar","9398",0,[30,11,2003]]
 }
 while True:
   print("Choose the required option: ")
